@@ -1,6 +1,6 @@
 import {Given, When, Then} from "cypress-cucumber-preprocessor/steps"
 
-import paginaProjeto from "../../support/pageObjects/cenario1Page";
+import paginaProjeto from "../pageObjects/cenario1Page";
 
 const site = new paginaProjeto;
 
