@@ -1,6 +1,6 @@
 Feature: Multiple Modals
 
-Scenario Outline: Abrir o segundo modal
+Scenario: Abrir o segundo modal
 
 Given que o estudante acessou a plataforma
 And selecionou o botão do Multiple Modals

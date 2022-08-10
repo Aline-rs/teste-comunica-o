@@ -1,6 +1,6 @@
 Feature: Multiple Modals
 
-Scenario Outline: Verificar conteúdo exibido
+Scenario: Verificar conteúdo exibido
 
 Given que o estudante acessou a plataforma
 And selecionou o botão do Multiple Modals
