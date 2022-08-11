@@ -24,7 +24,8 @@
   "homepage": "https://github.com/Aline-rs/teste-comunicacao#readme",
   "devDependencies": {
     "cypress": "^9.7.0",
-    "cypress-cucumber-preprocessor": "^4.3.1"
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "eslint-plugin-cypress": "^2.12.1"
   },
   "dependencies": {
     "cucumber": "^6.0.7"
